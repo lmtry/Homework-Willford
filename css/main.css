@@ -1,0 +1,36 @@
+.text-superbig{
+	font-size: 70px;
+}
+
+.text-big{
+	font-size: 35px;
+}
+
+body{
+	font-family: 'Indie Flower', cursive;
+}
+#text-min-title{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#text-content{
+	font-size: 25px;
+}
+
+.subtitle-1{
+	background-color: #1E88E5;
+	color: white;
+}
+
+.subtitle-2{
+	background-color: #689F38;
+	color: white;
+}
+
+.pic-description{
+	margin: 20px;
+	padding-top:5%;
+	border-color: #B39DDB;
+	border: 2px;
+}
